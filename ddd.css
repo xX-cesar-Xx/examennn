@@ -77,3 +77,6 @@
 .oferta h1{
     text-align: center;
 }
+@media (max-width: 768px) {
+    /* Estilos para pantallas de menos de 768 píxeles de ancho */
+}
